@@ -12,35 +12,35 @@ https://2022graphicsb.blogspot.com/2022/03/tc-week03.html
 第二周範例網址
 https://jsyeh.org/3dcg10/
 
-建 GitHub 倉庫
-1. 登入 GitHub
-2. 建 2022graphics 的 repo倉庫
-2.1. 要設定 Public
-2.2. 要 README.md
-2.3. Add .gitignore 設定 C++
+建 GitHub 倉庫  
+1. 登入 GitHub  
+2. 建 2022graphics 的 repo倉庫  
+2.1. 要設定 Public  
+2.2. 要 README.md  
+2.3. Add .gitignore 設定 C++  
 
-3. 利用 Git指令下載
-3.0. 安裝 Git for Windows
-3.1. 開啟 Git Bash
-3.2. cd desktop 進入桌面
-3.2. git clone https://你的倉庫網址
-3.3. 查看 桌面,多了 2022graphics 目錄
+3. 利用 Git指令下載  
+3.0. 安裝 Git for Windows  
+3.1. 開啟 Git Bash  
+3.2. cd desktop 進入桌面  
+3.2. git clone https://你的倉庫網址  
+3.3. 查看 桌面,多了 2022graphics 目錄  
 
-3.4. 把今天的程式 複製到 剛剛目錄
+3.4. 把今天的程式 複製到 剛剛目錄  
 
-4. 把修改的資料, 推送到雲端
-4.1. cd 2022graphics 進入你的倉庫
-4.2. git status 看你的狀況(紅的,多了目錄)
-4.3. git add . 把檔案加進帳冊
-4.4. git status 再看一次(綠的)
+4. 把修改的資料, 推送到雲端  
+4.1. cd 2022graphics 進入你的倉庫  
+4.2. git status 看你的狀況(紅的,多了目錄)  
+4.3. git add . 把檔案加進帳冊  
+4.4. git status 再看一次(綠的)  
 
-這裡要加入
-git config --global user.email "你的email"
-git config --global user.name "你的名"
-git commit -m "上傳第1週"
+這裡要加入  
+git config --global user.email "你的email"  
+git config --global user.name "你的名"  
+git commit -m "上傳第1週"  
 
-4.5. git push 推送到雲端, BUT要登入
-4.6. 在 Chrome記得再登入哦
+4.5. git push 推送到雲端, BUT要登入  
+4.6. 在 Chrome記得再登入哦  
 
 第二周程式碼
 ```c++
