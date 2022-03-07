@@ -9,6 +9,9 @@ https://2022graphicsb.blogspot.com/2022/02/tc-week01.html
 week02  
 https://2022graphicsb.blogspot.com/2022/03/tc-week03.html
 
+第二周範例網址
+https://jsyeh.org/3dcg10/
+
 第二周程式碼
 ```c++
 #include <GL/glut.h>
